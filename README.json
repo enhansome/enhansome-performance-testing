@@ -30,7 +30,7 @@
             "last_commit": "2026-08-25T02:20:13Z",
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31311
+            "stars": 31312
           }
         },
         {
@@ -338,7 +338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:25:10.765Z",
+    "last_updated": "2026-08-25T07:57:55.229Z",
     "original_repository": "andriisoldatenko/awesome-performance-testing",
     "original_repository_id": 34650768,
     "original_repository_sha": "53ce00fcb5804e08489e35c17b880b3dffa6aaf8",

@@ -4,7 +4,7 @@ A collection of awesome performance testing resources
 
 * [wrk](https://github.com/wg/wrk) ⭐ 40,391 | 🐛 203 | 🌐 C | 📅 2023-12-30 - wrk is a modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. It combines a multithreaded design with scalable event notification systems such as epoll and kqueue. An optional LuaJIT script can perform HTTP request generation, response processing, and custom reporting. Examples available.
 
-* [k6](https://github.com/grafana/k6) ⭐ 31,311 | 🐛 796 | 🌐 Go | 📅 2026-08-25 - is a modern and developer-centric load testing tool for API and website testing, tests are written in ES6 JS with support for HTTP/1.1, HTTP/2.0 and WebSocket protocols, written in Go.
+* [k6](https://github.com/grafana/k6) ⭐ 31,312 | 🐛 796 | 🌐 Go | 📅 2026-08-25 - is a modern and developer-centric load testing tool for API and website testing, tests are written in ES6 JS with support for HTTP/1.1, HTTP/2.0 and WebSocket protocols, written in Go.
 
 * [hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 28,727 | 🐛 97 | 🌐 Rust | 📅 2026-04-30 - A command-line benchmarking tool. It supports statistical analysis across multiple runs and support for arbitrary shell commands.
 
