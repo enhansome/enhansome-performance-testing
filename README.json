@@ -15,7 +15,7 @@
             "last_commit": "2023-12-30T10:33:51Z",
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40391
+            "stars": 40393
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 54400687,
             "language": "Go",
-            "last_commit": "2026-08-25T02:20:13Z",
+            "last_commit": "2026-08-26T07:57:30Z",
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31312
+            "stars": 31324
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-04-30T08:23:25Z",
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 28727
+            "stars": 28734
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-24T09:06:41Z",
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28097
+            "stars": 28099
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-02-16T14:07:07Z",
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25164
+            "stars": 25166
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-01-10T20:54:51Z",
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20239
+            "stars": 20240
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-23T09:11:21Z",
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10504
+            "stars": 10507
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-07-10T19:21:20Z",
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8711
+            "stars": 8718
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 1826128,
             "language": "Scala",
-            "last_commit": "2026-08-24T16:35:41Z",
+            "last_commit": "2026-08-25T11:51:30Z",
             "owner": "gatling",
             "repo": "gatling",
             "stars": 6952
@@ -177,10 +177,10 @@
             "archived": false,
             "id": 59949570,
             "language": "Go",
-            "last_commit": "2026-03-31T13:01:05Z",
+            "last_commit": "2026-08-25T22:40:58Z",
             "owner": "codesenberg",
             "repo": "bombardier",
-            "stars": 6825
+            "stars": 6828
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-04-28T15:48:39Z",
             "owner": "six-ddc",
             "repo": "plow",
-            "stars": 4517
+            "stars": 4518
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-24T13:32:37Z",
             "owner": "fortio",
             "repo": "fortio",
-            "stars": 3723
+            "stars": 3722
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-07-29T05:59:50Z",
             "owner": "fcsonline",
             "repo": "drill",
-            "stars": 2307
+            "stars": 2308
           }
         },
         {
@@ -338,7 +338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:57:55.229Z",
+    "last_updated": "2026-08-26T07:58:42.075Z",
     "original_repository": "andriisoldatenko/awesome-performance-testing",
     "original_repository_id": 34650768,
     "original_repository_sha": "53ce00fcb5804e08489e35c17b880b3dffa6aaf8",
