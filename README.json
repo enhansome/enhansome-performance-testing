@@ -15,7 +15,7 @@
             "last_commit": "2023-12-30T10:33:51Z",
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40395
+            "stars": 40396
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 54400687,
             "language": "Go",
-            "last_commit": "2026-08-27T08:17:15Z",
+            "last_commit": "2026-08-27T16:03:28Z",
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31330
+            "stars": 31334
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-04-30T08:23:25Z",
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 28746
+            "stars": 28750
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-26T17:46:29Z",
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28107
+            "stars": 28108
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-05-16T07:48:53Z",
             "owner": "mcollina",
             "repo": "autocannon",
-            "stars": 8502
+            "stars": 8503
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-25T22:40:58Z",
             "owner": "codesenberg",
             "repo": "bombardier",
-            "stars": 6828
+            "stars": 6829
           }
         },
         {
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 32239287,
             "language": "C++",
-            "last_commit": "2026-08-27T00:42:46Z",
+            "last_commit": "2026-08-27T16:36:30Z",
             "owner": "shekyan",
             "repo": "slowhttptest",
             "stars": 1644
@@ -338,7 +338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:56:04.561Z",
+    "last_updated": "2026-08-27T18:17:05.110Z",
     "original_repository_info": {
       "archived": false,
       "id": 34650768,
