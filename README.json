@@ -19,7 +19,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40400,
+            "stars": 40401,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -40,7 +40,7 @@
             "open_issues": 799,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31349,
+            "stars": 31350,
             "topics": [
               "es6",
               "go",
@@ -71,7 +71,7 @@
             "open_issues": 96,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 28757,
+            "stars": 28758,
             "topics": [
               "benchmark",
               "cli",
@@ -99,7 +99,7 @@
             "open_issues": 3,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28112,
+            "stars": 28114,
             "topics": [
               "benchmarking",
               "http",
@@ -132,7 +132,7 @@
             "open_issues": 122,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25170,
+            "stars": 25169,
             "topics": [
               "benchmarking",
               "go",
@@ -210,7 +210,7 @@
             "open_issues": 233,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8721,
+            "stars": 8722,
             "topics": [
               "iperf3"
             ]
@@ -266,7 +266,7 @@
             "open_issues": 58,
             "owner": "mcollina",
             "repo": "autocannon",
-            "stars": 8504,
+            "stars": 8505,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -472,7 +472,7 @@
             "id": 5150693,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-19T13:21:12Z",
+            "last_commit": "2026-08-29T13:09:39Z",
             "open_issues": 84,
             "owner": "yandex",
             "repo": "yandex-tank",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:52:51.099Z",
+    "last_updated": "2026-08-29T13:10:02.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
