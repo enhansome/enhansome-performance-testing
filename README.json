@@ -19,7 +19,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40405,
+            "stars": 40404,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-02T11:20:20Z",
-            "open_issues": 804,
+            "last_commit": "2026-09-02T21:04:29Z",
+            "open_issues": 805,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31373,
+            "stars": 31376,
             "topics": [
               "es6",
               "go",
@@ -71,7 +71,7 @@
             "open_issues": 97,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 28791,
+            "stars": 28798,
             "topics": [
               "benchmark",
               "cli",
@@ -99,7 +99,7 @@
             "open_issues": 4,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28120,
+            "stars": 28123,
             "topics": [
               "benchmarking",
               "http",
@@ -132,7 +132,7 @@
             "open_issues": 122,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25176,
+            "stars": 25177,
             "topics": [
               "benchmarking",
               "go",
@@ -158,7 +158,7 @@
             "open_issues": 189,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20253,
+            "stars": 20254,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -210,7 +210,7 @@
             "open_issues": 235,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8730,
+            "stars": 8729,
             "topics": [
               "iperf3"
             ]
@@ -362,7 +362,7 @@
             "open_issues": 106,
             "owner": "giltene",
             "repo": "wrk2",
-            "stars": 4628,
+            "stars": 4629,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -472,7 +472,7 @@
             "id": 5150693,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T09:53:46Z",
+            "last_commit": "2026-09-02T15:44:02Z",
             "open_issues": 84,
             "owner": "yandex",
             "repo": "yandex-tank",
@@ -499,11 +499,11 @@
             "id": 91699290,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-07-29T05:59:50Z",
-            "open_issues": 38,
+            "last_commit": "2026-09-03T05:32:12Z",
+            "open_issues": 39,
             "owner": "fcsonline",
             "repo": "drill",
-            "stars": 2308,
+            "stars": 2307,
             "topics": [
               "http",
               "jmeter",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:06:37.037Z",
+    "last_updated": "2026-09-03T12:06:04.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",

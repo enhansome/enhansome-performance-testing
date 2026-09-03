@@ -2,21 +2,21 @@
 
 A collection of awesome performance testing resources
 
-* [wrk](https://github.com/wg/wrk) ⭐ 40,405 | 🐛 203 | 🌐 C | 📅 2023-12-30 - wrk is a modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. It combines a multithreaded design with scalable event notification systems such as epoll and kqueue. An optional LuaJIT script can perform HTTP request generation, response processing, and custom reporting. Examples available.
+* [wrk](https://github.com/wg/wrk) ⭐ 40,404 | 🐛 203 | 🌐 C | 📅 2023-12-30 - wrk is a modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. It combines a multithreaded design with scalable event notification systems such as epoll and kqueue. An optional LuaJIT script can perform HTTP request generation, response processing, and custom reporting. Examples available.
 
-* [k6](https://github.com/grafana/k6) ⭐ 31,373 | 🐛 804 | 🌐 Go | 📅 2026-09-02 - is a modern and developer-centric load testing tool for API and website testing, tests are written in ES6 JS with support for HTTP/1.1, HTTP/2.0 and WebSocket protocols, written in Go.
+* [k6](https://github.com/grafana/k6) ⭐ 31,376 | 🐛 805 | 🌐 Go | 📅 2026-09-02 - is a modern and developer-centric load testing tool for API and website testing, tests are written in ES6 JS with support for HTTP/1.1, HTTP/2.0 and WebSocket protocols, written in Go.
 
-* [hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 28,791 | 🐛 97 | 🌐 Rust | 📅 2026-04-30 - A command-line benchmarking tool. It supports statistical analysis across multiple runs and support for arbitrary shell commands.
+* [hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 28,798 | 🐛 97 | 🌐 Rust | 📅 2026-04-30 - A command-line benchmarking tool. It supports statistical analysis across multiple runs and support for arbitrary shell commands.
 
-* [Locust](https://github.com/locustio/locust) ⭐ 28,120 | 🐛 4 | 🌐 Python | 📅 2026-08-26 - is an easily distributed loading test tool for load testing web sites and services, tests are written in Python. Featured in <https://cloud.google.com/solutions/distributed-load-testing-using-kubernetes>
+* [Locust](https://github.com/locustio/locust) ⭐ 28,123 | 🐛 4 | 🌐 Python | 📅 2026-08-26 - is an easily distributed loading test tool for load testing web sites and services, tests are written in Python. Featured in <https://cloud.google.com/solutions/distributed-load-testing-using-kubernetes>
 
-* [vegeta](https://github.com/tsenart/vegeta) ⭐ 25,176 | 🐛 122 | 🌐 Go | 📅 2026-02-16 - Vegeta is a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate.
+* [vegeta](https://github.com/tsenart/vegeta) ⭐ 25,177 | 🐛 122 | 🌐 Go | 📅 2026-02-16 - Vegeta is a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate.
 
-* [hey](https://github.com/rakyll/hey) ⭐ 20,253 | 🐛 189 | 🌐 Go | 📅 2026-01-10 - hey is a tiny program that sends some load to a web application. It was originally called boom and was influenced from Tarek Ziade's tool at tarekziade/boom. Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion. To preserve the name for its original owner, we renamed this project to hey.
+* [hey](https://github.com/rakyll/hey) ⭐ 20,254 | 🐛 189 | 🌐 Go | 📅 2026-01-10 - hey is a tiny program that sends some load to a web application. It was originally called boom and was influenced from Tarek Ziade's tool at tarekziade/boom. Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion. To preserve the name for its original owner, we renamed this project to hey.
 
 * [oha](https://github.com/hatoo/oha) ⭐ 10,523 | 🐛 57 | 🌐 Rust | 📅 2026-08-23 - oha is a tiny program that sends some load to a web application and show realtime tui inspired by rakyll/hey. This program is written in Rust and powered by tokio and beautiful tui by tui-rs.
 
-* [iperf](https://github.com/esnet/iperf) ⭐ 8,730 | 🐛 235 | 🌐 C | 📅 2026-07-10 - iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool. iperf is a tool for active measurements of the maximum achievable bandwidth on IP networks. It supports tuning of various parameters related to timing, protocols, and buffers. For each test it reports the measured throughput / bitrate, loss, and other parameters.
+* [iperf](https://github.com/esnet/iperf) ⭐ 8,729 | 🐛 235 | 🌐 C | 📅 2026-07-10 - iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool. iperf is a tool for active measurements of the maximum achievable bandwidth on IP networks. It supports tuning of various parameters related to timing, protocols, and buffers. For each test it reports the measured throughput / bitrate, loss, and other parameters.
 
 * [ddosify](https://github.com/ddosify/ddosify) ⭐ 8,520 | 🐛 19 | 🌐 Go | 📅 2026-03-04 - High-performance load testing scenario-based tool with current support of HTTP, HTTPS, HTTP/2, you can create your flow in a JSON file without a line of code.
 
@@ -26,7 +26,7 @@ A collection of awesome performance testing resources
 
 * [bombardier](https://github.com/codesenberg/bombardier) ⭐ 6,831 | 🐛 28 | 🌐 Go | 📅 2026-08-25 - bombardier is a HTTP(S) benchmarking tool. It is written in Go programming language and uses excellent fasthttp instead of Go's default http library, because of its lightning fast performance.
 
-* [wrk2](https://github.com/giltene/wrk2) ⭐ 4,628 | 🐛 106 | 🌐 C | 📅 2024-03-03 - wrk2 is wrk modifed to produce a constant throughput load, and accurate latency details to the high 9s (i.e. can produce accurate 99.9999%'ile when run long enough). In addition to wrk's arguments, wrk2 takes a throughput argument (in total requests per second) via either the --rate or -R parameters (default is 1000).
+* [wrk2](https://github.com/giltene/wrk2) ⭐ 4,629 | 🐛 106 | 🌐 C | 📅 2024-03-03 - wrk2 is wrk modifed to produce a constant throughput load, and accurate latency details to the high 9s (i.e. can produce accurate 99.9999%'ile when run long enough). In addition to wrk's arguments, wrk2 takes a throughput argument (in total requests per second) via either the --rate or -R parameters (default is 1000).
 
 * [plow](https://github.com/six-ddc/plow) ⭐ 4,518 | 🐛 20 | 🌐 Go | 📅 2026-04-28 - Plow is a HTTP(S) benchmarking tool, written in Golang. It uses fasthttp instead of Go's default net/http due to its lightning fast performance. Plow runs at a specified connections concurrently and real-time records a summary statistics, histogram of execution time and calculates percentiles to display on Web UI and terminal. It can run for a set duration, for a fixed number of requests or until Ctrl-C interrupted.
 
@@ -36,7 +36,7 @@ A collection of awesome performance testing resources
 
 * [Yandex.Tank](https://github.com/yandex/yandex-tank) ⭐ 2,596 | 🐛 84 | 🌐 Python | 📅 2026-09-02 - is an extendable open source load testing tool for advanced linux users which is especially good as a part of automated load testing suit.
 
-* [drill](https://github.com/fcsonline/drill) ⭐ 2,308 | 🐛 38 | 🌐 Rust | 📅 2026-07-29 - Drill is a HTTP load testing application written in Rust. The main goal for this project is to build a really lightweight tool as alternative to other that require JVM and other stuff. You can write benchmark files, in YAML format, describing all the stuff you want to test.
+* [drill](https://github.com/fcsonline/drill) ⭐ 2,307 | 🐛 39 | 🌐 Rust | 📅 2026-09-03 - Drill is a HTTP load testing application written in Rust. The main goal for this project is to build a really lightweight tool as alternative to other that require JVM and other stuff. You can write benchmark files, in YAML format, describing all the stuff you want to test.
 
 * [slowhttptest](https://github.com/shekyan/slowhttptest) ⭐ 1,648 | 🐛 25 | 🌐 C++ | 📅 2026-09-01 - SlowHTTPTest is a highly configurable tool that simulates some Application Layer Denial of Service attacks by prolonging HTTP connections in different ways. Use it to test your web server for DoS vulnerabilites, or just to figure out how many concurrent connections it can handle
 
@@ -68,4 +68,4 @@ A collection of awesome performance testing resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
