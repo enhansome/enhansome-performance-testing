@@ -19,7 +19,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40403,
+            "stars": 40402,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-04T11:10:13Z",
-            "open_issues": 809,
+            "last_commit": "2026-09-05T11:06:14Z",
+            "open_issues": 812,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31386,
+            "stars": 31393,
             "topics": [
               "es6",
               "go",
@@ -71,7 +71,7 @@
             "open_issues": 97,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 28802,
+            "stars": 28803,
             "topics": [
               "benchmark",
               "cli",
@@ -132,7 +132,7 @@
             "open_issues": 122,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25178,
+            "stars": 25179,
             "topics": [
               "benchmarking",
               "go",
@@ -158,7 +158,7 @@
             "open_issues": 189,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20255,
+            "stars": 20256,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -179,7 +179,7 @@
             "open_issues": 57,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10526,
+            "stars": 10527,
             "topics": [
               "benchmark",
               "cli",
@@ -210,7 +210,7 @@
             "open_issues": 235,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8730,
+            "stars": 8733,
             "topics": [
               "iperf3"
             ]
@@ -284,7 +284,7 @@
             "language": "Scala",
             "license": "Apache-2.0",
             "last_commit": "2026-08-31T16:45:11Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "gatling",
             "repo": "gatling",
             "stars": 6956,
@@ -443,7 +443,7 @@
             "open_issues": 86,
             "owner": "fortio",
             "repo": "fortio",
-            "stars": 3721,
+            "stars": 3722,
             "topics": [
               "go",
               "golang",
@@ -527,8 +527,8 @@
             "id": 32239287,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T03:15:41Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-04T17:53:03Z",
+            "open_issues": 3,
             "owner": "shekyan",
             "repo": "slowhttptest",
             "stars": 1648,
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:07:35.926Z",
+    "last_updated": "2026-09-05T11:15:49.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
@@ -636,7 +636,7 @@
       "open_issues": 4,
       "owner": "andriisoldatenko",
       "repo": "awesome-performance-testing",
-      "stars": 198,
+      "stars": 199,
       "topics": [
         "awesome-list",
         "measure",
