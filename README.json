@@ -19,7 +19,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40410,
+            "stars": 40412,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-10T12:07:20Z",
-            "open_issues": 812,
+            "last_commit": "2026-09-11T11:55:18Z",
+            "open_issues": 806,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31433,
+            "stars": 31442,
             "topics": [
               "es6",
               "go",
@@ -71,7 +71,7 @@
             "open_issues": 97,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 28832,
+            "stars": 28837,
             "topics": [
               "benchmark",
               "cli",
@@ -96,10 +96,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-07T06:44:42Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28140,
+            "stars": 28143,
             "topics": [
               "benchmarking",
               "http",
@@ -158,7 +158,7 @@
             "open_issues": 189,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20257,
+            "stars": 20259,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -179,7 +179,7 @@
             "open_issues": 57,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10539,
+            "stars": 10541,
             "topics": [
               "benchmark",
               "cli",
@@ -207,10 +207,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-07-10T19:21:20Z",
-            "open_issues": 236,
+            "open_issues": 237,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8745,
+            "stars": 8750,
             "topics": [
               "iperf3"
             ]
@@ -233,7 +233,7 @@
             "open_issues": 19,
             "owner": "getanteon",
             "repo": "anteon",
-            "stars": 8518,
+            "stars": 8517,
             "topics": [
               "ddosify",
               "docker",
@@ -266,7 +266,7 @@
             "open_issues": 58,
             "owner": "mcollina",
             "repo": "autocannon",
-            "stars": 8513,
+            "stars": 8514,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -328,7 +328,7 @@
             "open_issues": 28,
             "owner": "codesenberg",
             "repo": "bombardier",
-            "stars": 6832,
+            "stars": 6833,
             "topics": [
               "benchmarking",
               "bombardier",
@@ -472,11 +472,11 @@
             "id": 5150693,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T00:30:15Z",
+            "last_commit": "2026-09-11T09:53:39Z",
             "open_issues": 85,
             "owner": "yandex",
             "repo": "yandex-tank",
-            "stars": 2596,
+            "stars": 2597,
             "topics": [
               "framework",
               "load-testing",
@@ -527,7 +527,7 @@
             "id": 32239287,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T04:06:15Z",
+            "last_commit": "2026-09-11T03:55:08Z",
             "open_issues": 3,
             "owner": "shekyan",
             "repo": "slowhttptest",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T12:13:29.761Z",
+    "last_updated": "2026-09-11T12:12:20.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
