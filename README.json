@@ -19,7 +19,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40412,
+            "stars": 40415,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-11T11:55:18Z",
-            "open_issues": 806,
+            "last_commit": "2026-09-12T11:19:33Z",
+            "open_issues": 800,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31442,
+            "stars": 31452,
             "topics": [
               "es6",
               "go",
@@ -71,7 +71,7 @@
             "open_issues": 97,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 28837,
+            "stars": 28846,
             "topics": [
               "benchmark",
               "cli",
@@ -99,7 +99,7 @@
             "open_issues": 6,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28143,
+            "stars": 28145,
             "topics": [
               "benchmarking",
               "http",
@@ -132,7 +132,7 @@
             "open_issues": 122,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25185,
+            "stars": 25187,
             "topics": [
               "benchmarking",
               "go",
@@ -158,7 +158,7 @@
             "open_issues": 189,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20259,
+            "stars": 20260,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -179,7 +179,7 @@
             "open_issues": 57,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10541,
+            "stars": 10542,
             "topics": [
               "benchmark",
               "cli",
@@ -210,7 +210,7 @@
             "open_issues": 237,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8750,
+            "stars": 8753,
             "topics": [
               "iperf3"
             ]
@@ -233,7 +233,7 @@
             "open_issues": 19,
             "owner": "getanteon",
             "repo": "anteon",
-            "stars": 8517,
+            "stars": 8516,
             "topics": [
               "ddosify",
               "docker",
@@ -283,7 +283,7 @@
             "id": 1826128,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T11:15:42Z",
+            "last_commit": "2026-09-11T15:06:21Z",
             "open_issues": 19,
             "owner": "gatling",
             "repo": "gatling",
@@ -328,7 +328,7 @@
             "open_issues": 28,
             "owner": "codesenberg",
             "repo": "bombardier",
-            "stars": 6833,
+            "stars": 6834,
             "topics": [
               "benchmarking",
               "bombardier",
@@ -362,7 +362,7 @@
             "open_issues": 106,
             "owner": "giltene",
             "repo": "wrk2",
-            "stars": 4629,
+            "stars": 4630,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -383,7 +383,7 @@
             "open_issues": 20,
             "owner": "six-ddc",
             "repo": "plow",
-            "stars": 4517,
+            "stars": 4516,
             "topics": [
               "apachebench",
               "cli",
@@ -527,7 +527,7 @@
             "id": 32239287,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T03:55:08Z",
+            "last_commit": "2026-09-11T20:14:51Z",
             "open_issues": 3,
             "owner": "shekyan",
             "repo": "slowhttptest",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T12:12:20.195Z",
+    "last_updated": "2026-09-12T11:36:29.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
