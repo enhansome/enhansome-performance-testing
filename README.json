@@ -19,7 +19,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40415,
+            "stars": 40414,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-12T11:19:33Z",
-            "open_issues": 800,
+            "last_commit": "2026-09-13T11:14:11Z",
+            "open_issues": 804,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31452,
+            "stars": 31459,
             "topics": [
               "es6",
               "go",
@@ -71,7 +71,7 @@
             "open_issues": 97,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 28846,
+            "stars": 28851,
             "topics": [
               "benchmark",
               "cli",
@@ -99,7 +99,7 @@
             "open_issues": 6,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28145,
+            "stars": 28148,
             "topics": [
               "benchmarking",
               "http",
@@ -132,7 +132,7 @@
             "open_issues": 122,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25187,
+            "stars": 25188,
             "topics": [
               "benchmarking",
               "go",
@@ -155,7 +155,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-01-10T20:54:51Z",
-            "open_issues": 189,
+            "open_issues": 188,
             "owner": "rakyll",
             "repo": "hey",
             "stars": 20260,
@@ -176,10 +176,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-10T04:43:05Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10542,
+            "stars": 10544,
             "topics": [
               "benchmark",
               "cli",
@@ -210,7 +210,7 @@
             "open_issues": 237,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8753,
+            "stars": 8754,
             "topics": [
               "iperf3"
             ]
@@ -233,7 +233,7 @@
             "open_issues": 19,
             "owner": "getanteon",
             "repo": "anteon",
-            "stars": 8516,
+            "stars": 8515,
             "topics": [
               "ddosify",
               "docker",
@@ -266,7 +266,7 @@
             "open_issues": 58,
             "owner": "mcollina",
             "repo": "autocannon",
-            "stars": 8514,
+            "stars": 8515,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -287,7 +287,7 @@
             "open_issues": 19,
             "owner": "gatling",
             "repo": "gatling",
-            "stars": 6956,
+            "stars": 6955,
             "topics": [
               "automation",
               "cicd",
@@ -472,7 +472,7 @@
             "id": 5150693,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T09:53:39Z",
+            "last_commit": "2026-09-12T13:47:19Z",
             "open_issues": 85,
             "owner": "yandex",
             "repo": "yandex-tank",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:36:29.315Z",
+    "last_updated": "2026-09-13T12:43:31.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
