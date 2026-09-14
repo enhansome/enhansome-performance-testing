@@ -19,7 +19,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40414,
+            "stars": 40416,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-13T11:14:11Z",
-            "open_issues": 804,
+            "last_commit": "2026-09-14T00:04:24Z",
+            "open_issues": 806,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31459,
+            "stars": 31475,
             "topics": [
               "es6",
               "go",
@@ -71,7 +71,7 @@
             "open_issues": 97,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 28851,
+            "stars": 28858,
             "topics": [
               "benchmark",
               "cli",
@@ -95,11 +95,11 @@
             "id": 1377867,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-07T06:44:42Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-14T12:01:21Z",
+            "open_issues": 7,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28148,
+            "stars": 28152,
             "topics": [
               "benchmarking",
               "http",
@@ -132,7 +132,7 @@
             "open_issues": 122,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25188,
+            "stars": 25186,
             "topics": [
               "benchmarking",
               "go",
@@ -179,7 +179,7 @@
             "open_issues": 58,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10544,
+            "stars": 10545,
             "topics": [
               "benchmark",
               "cli",
@@ -207,13 +207,34 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-07-10T19:21:20Z",
-            "open_issues": 237,
+            "open_issues": 238,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8754,
+            "stars": 8755,
             "topics": [
               "iperf3"
             ]
+          },
+          "first_seen": "2026-08-28T19:26:03.734Z"
+        },
+        {
+          "node_type": "item",
+          "title": "autocannon",
+          "description": "An HTTP/1.1 benchmarking tool written in node, greatly inspired by wrk and wrk2, with support for HTTP pipelining and HTTPS. On my box, autocannon can produce more load than wrk and wrk2, see limitations for more details.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "fast HTTP/1.1 benchmarking tool written in Node.js",
+            "homepage": null,
+            "id": 55169257,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-05-16T07:48:53Z",
+            "open_issues": 58,
+            "owner": "mcollina",
+            "repo": "autocannon",
+            "stars": 8517,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
         },
@@ -247,27 +268,6 @@
               "loadtesting",
               "performance-testing"
             ]
-          },
-          "first_seen": "2026-08-28T19:26:03.734Z"
-        },
-        {
-          "node_type": "item",
-          "title": "autocannon",
-          "description": "An HTTP/1.1 benchmarking tool written in node, greatly inspired by wrk and wrk2, with support for HTTP pipelining and HTTPS. On my box, autocannon can produce more load than wrk and wrk2, see limitations for more details.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "fast HTTP/1.1 benchmarking tool written in Node.js",
-            "homepage": null,
-            "id": 55169257,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-05-16T07:48:53Z",
-            "open_issues": 58,
-            "owner": "mcollina",
-            "repo": "autocannon",
-            "stars": 8515,
-            "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
         },
@@ -328,7 +328,7 @@
             "open_issues": 28,
             "owner": "codesenberg",
             "repo": "bombardier",
-            "stars": 6834,
+            "stars": 6836,
             "topics": [
               "benchmarking",
               "bombardier",
@@ -383,7 +383,7 @@
             "open_issues": 20,
             "owner": "six-ddc",
             "repo": "plow",
-            "stars": 4516,
+            "stars": 4515,
             "topics": [
               "apachebench",
               "cli",
@@ -439,11 +439,11 @@
             "id": 106351459,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T13:32:33Z",
-            "open_issues": 86,
+            "last_commit": "2026-09-14T13:32:41Z",
+            "open_issues": 87,
             "owner": "fortio",
             "repo": "fortio",
-            "stars": 3725,
+            "stars": 3724,
             "topics": [
               "go",
               "golang",
@@ -472,7 +472,7 @@
             "id": 5150693,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T13:47:19Z",
+            "last_commit": "2026-09-14T12:16:14Z",
             "open_issues": 85,
             "owner": "yandex",
             "repo": "yandex-tank",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T12:43:31.464Z",
+    "last_updated": "2026-09-14T14:02:18.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
