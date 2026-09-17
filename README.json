@@ -19,7 +19,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40412,
+            "stars": 40410,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-16T10:49:07Z",
-            "open_issues": 797,
+            "last_commit": "2026-09-17T11:21:32Z",
+            "open_issues": 801,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31504,
+            "stars": 31513,
             "topics": [
               "es6",
               "go",
@@ -71,7 +71,7 @@
             "open_issues": 97,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 28870,
+            "stars": 28874,
             "topics": [
               "benchmark",
               "cli",
@@ -95,11 +95,11 @@
             "id": 1377867,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-15T17:06:37Z",
+            "last_commit": "2026-09-17T11:28:03Z",
             "open_issues": 3,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28162,
+            "stars": 28165,
             "topics": [
               "benchmarking",
               "http",
@@ -132,7 +132,7 @@
             "open_issues": 122,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25190,
+            "stars": 25191,
             "topics": [
               "benchmarking",
               "go",
@@ -158,7 +158,7 @@
             "open_issues": 188,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20263,
+            "stars": 20265,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -179,7 +179,7 @@
             "open_issues": 58,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10548,
+            "stars": 10550,
             "topics": [
               "benchmark",
               "cli",
@@ -210,7 +210,7 @@
             "open_issues": 238,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8761,
+            "stars": 8764,
             "topics": [
               "iperf3"
             ]
@@ -283,8 +283,8 @@
             "id": 1826128,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T15:06:21Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-17T01:18:17Z",
+            "open_issues": 20,
             "owner": "gatling",
             "repo": "gatling",
             "stars": 6956,
@@ -328,7 +328,7 @@
             "open_issues": 28,
             "owner": "codesenberg",
             "repo": "bombardier",
-            "stars": 6836,
+            "stars": 6837,
             "topics": [
               "benchmarking",
               "bombardier",
@@ -414,7 +414,7 @@
             "open_issues": 25,
             "owner": "nakabonne",
             "repo": "ali",
-            "stars": 3940,
+            "stars": 3939,
             "topics": [
               "benchmarking",
               "go",
@@ -443,7 +443,7 @@
             "open_issues": 87,
             "owner": "fortio",
             "repo": "fortio",
-            "stars": 3727,
+            "stars": 3726,
             "topics": [
               "go",
               "golang",
@@ -527,7 +527,7 @@
             "id": 32239287,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T00:41:22Z",
+            "last_commit": "2026-09-16T19:24:04Z",
             "open_issues": 3,
             "owner": "shekyan",
             "repo": "slowhttptest",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T12:35:57.621Z",
+    "last_updated": "2026-09-17T12:35:09.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
