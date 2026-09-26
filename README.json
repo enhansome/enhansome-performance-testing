@@ -19,7 +19,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40414,
+            "stars": 40415,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-25T11:24:25Z",
-            "open_issues": 793,
+            "last_commit": "2026-09-25T22:09:13Z",
+            "open_issues": 797,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31577,
+            "stars": 31611,
             "topics": [
               "es6",
               "go",
@@ -71,7 +71,7 @@
             "open_issues": 101,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 28903,
+            "stars": 28907,
             "topics": [
               "benchmark",
               "cli",
@@ -95,11 +95,11 @@
             "id": 1377867,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-21T21:01:24Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-26T09:11:45Z",
+            "open_issues": 2,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28183,
+            "stars": 28185,
             "topics": [
               "benchmarking",
               "http",
@@ -132,7 +132,7 @@
             "open_issues": 123,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25202,
+            "stars": 25201,
             "topics": [
               "benchmarking",
               "go",
@@ -158,7 +158,7 @@
             "open_issues": 188,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20283,
+            "stars": 20286,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -206,11 +206,11 @@
             "id": 17183871,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-07-10T19:21:20Z",
-            "open_issues": 239,
+            "last_commit": "2026-09-25T15:39:54Z",
+            "open_issues": 240,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8779,
+            "stars": 8781,
             "topics": [
               "iperf3"
             ]
@@ -362,7 +362,7 @@
             "open_issues": 106,
             "owner": "giltene",
             "repo": "wrk2",
-            "stars": 4632,
+            "stars": 4633,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -414,7 +414,7 @@
             "open_issues": 25,
             "owner": "nakabonne",
             "repo": "ali",
-            "stars": 3941,
+            "stars": 3940,
             "topics": [
               "benchmarking",
               "go",
@@ -527,7 +527,7 @@
             "id": 32239287,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T21:18:58Z",
+            "last_commit": "2026-09-25T16:47:33Z",
             "open_issues": 3,
             "owner": "shekyan",
             "repo": "slowhttptest",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T12:45:41.106Z",
+    "last_updated": "2026-09-26T12:13:53.192Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
