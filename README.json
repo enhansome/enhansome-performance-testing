@@ -19,7 +19,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40419,
+            "stars": 40417,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T14:14:39Z",
-            "open_issues": 781,
+            "last_commit": "2026-10-05T15:02:53Z",
+            "open_issues": 776,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31773,
+            "stars": 31789,
             "topics": [
               "es6",
               "go",
@@ -67,11 +67,11 @@
             "id": 117356231,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T10:22:29Z",
-            "open_issues": 96,
+            "last_commit": "2026-10-05T15:07:17Z",
+            "open_issues": 59,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 28942,
+            "stars": 28947,
             "topics": [
               "benchmark",
               "cli",
@@ -95,11 +95,11 @@
             "id": 1377867,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-04T10:43:21Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-04T20:46:09Z",
+            "open_issues": 5,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28196,
+            "stars": 28198,
             "topics": [
               "benchmarking",
               "http",
@@ -158,7 +158,7 @@
             "open_issues": 190,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20629,
+            "stars": 20638,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -210,7 +210,7 @@
             "open_issues": 244,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8796,
+            "stars": 8797,
             "topics": [
               "iperf3"
             ]
@@ -283,11 +283,11 @@
             "id": 1826128,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T09:53:52Z",
+            "last_commit": "2026-10-05T08:58:38Z",
             "open_issues": 18,
             "owner": "gatling",
             "repo": "gatling",
-            "stars": 6957,
+            "stars": 6958,
             "topics": [
               "automation",
               "cicd",
@@ -324,8 +324,8 @@
             "id": 59949570,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-25T22:40:58Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-05T00:37:50Z",
+            "open_issues": 29,
             "owner": "codesenberg",
             "repo": "bombardier",
             "stars": 6838,
@@ -359,7 +359,7 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2024-03-03T13:40:01Z",
-            "open_issues": 106,
+            "open_issues": 105,
             "owner": "giltene",
             "repo": "wrk2",
             "stars": 4634,
@@ -414,7 +414,7 @@
             "open_issues": 25,
             "owner": "nakabonne",
             "repo": "ali",
-            "stars": 3939,
+            "stars": 3938,
             "topics": [
               "benchmarking",
               "go",
@@ -472,8 +472,8 @@
             "id": 5150693,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T10:44:03Z",
-            "open_issues": 92,
+            "last_commit": "2026-10-05T09:32:23Z",
+            "open_issues": 93,
             "owner": "yandex",
             "repo": "yandex-tank",
             "stars": 2599,
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T13:11:31.503Z",
+    "last_updated": "2026-10-05T15:59:51.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
