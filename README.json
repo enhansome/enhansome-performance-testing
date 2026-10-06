@@ -19,7 +19,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40417,
+            "stars": 40418,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-05T15:02:53Z",
+            "last_commit": "2026-10-06T06:01:54Z",
             "open_issues": 776,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31789,
+            "stars": 31802,
             "topics": [
               "es6",
               "go",
@@ -67,11 +67,11 @@
             "id": 117356231,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T15:07:17Z",
-            "open_issues": 59,
+            "last_commit": "2026-10-06T08:53:11Z",
+            "open_issues": 58,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 28947,
+            "stars": 28951,
             "topics": [
               "benchmark",
               "cli",
@@ -99,7 +99,7 @@
             "open_issues": 5,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28198,
+            "stars": 28199,
             "topics": [
               "benchmarking",
               "http",
@@ -132,7 +132,7 @@
             "open_issues": 124,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25216,
+            "stars": 25217,
             "topics": [
               "benchmarking",
               "go",
@@ -158,7 +158,7 @@
             "open_issues": 190,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20638,
+            "stars": 20642,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -179,7 +179,7 @@
             "open_issues": 58,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10575,
+            "stars": 10578,
             "topics": [
               "benchmark",
               "cli",
@@ -210,7 +210,7 @@
             "open_issues": 244,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8797,
+            "stars": 8798,
             "topics": [
               "iperf3"
             ]
@@ -254,7 +254,7 @@
             "open_issues": 19,
             "owner": "getanteon",
             "repo": "anteon",
-            "stars": 8520,
+            "stars": 8519,
             "topics": [
               "ddosify",
               "docker",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T15:59:51.404Z",
+    "last_updated": "2026-10-06T10:18:50.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
