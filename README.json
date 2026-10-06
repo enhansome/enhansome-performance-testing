@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-06T06:01:54Z",
-            "open_issues": 776,
+            "last_commit": "2026-10-06T12:00:14Z",
+            "open_issues": 775,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31802,
+            "stars": 31809,
             "topics": [
               "es6",
               "go",
@@ -67,11 +67,11 @@
             "id": 117356231,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T08:53:11Z",
-            "open_issues": 58,
+            "last_commit": "2026-10-06T14:04:58Z",
+            "open_issues": 57,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 28951,
+            "stars": 28950,
             "topics": [
               "benchmark",
               "cli",
@@ -158,7 +158,7 @@
             "open_issues": 190,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20642,
+            "stars": 20644,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -210,7 +210,7 @@
             "open_issues": 244,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8798,
+            "stars": 8799,
             "topics": [
               "iperf3"
             ]
@@ -328,7 +328,7 @@
             "open_issues": 29,
             "owner": "codesenberg",
             "repo": "bombardier",
-            "stars": 6838,
+            "stars": 6839,
             "topics": [
               "benchmarking",
               "bombardier",
@@ -362,7 +362,7 @@
             "open_issues": 105,
             "owner": "giltene",
             "repo": "wrk2",
-            "stars": 4634,
+            "stars": 4635,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -443,7 +443,7 @@
             "open_issues": 91,
             "owner": "fortio",
             "repo": "fortio",
-            "stars": 3729,
+            "stars": 3731,
             "topics": [
               "go",
               "golang",
@@ -473,7 +473,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-05T09:32:23Z",
-            "open_issues": 93,
+            "open_issues": 94,
             "owner": "yandex",
             "repo": "yandex-tank",
             "stars": 2599,
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:18:50.263Z",
+    "last_updated": "2026-10-06T14:11:14.180Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
