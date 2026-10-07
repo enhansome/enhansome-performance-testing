@@ -19,7 +19,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40418,
+            "stars": 40417,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -40,7 +40,7 @@
             "open_issues": 775,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31809,
+            "stars": 31829,
             "topics": [
               "es6",
               "go",
@@ -67,11 +67,11 @@
             "id": 117356231,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T14:04:58Z",
-            "open_issues": 57,
+            "last_commit": "2026-10-07T10:34:55Z",
+            "open_issues": 51,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 28950,
+            "stars": 28958,
             "topics": [
               "benchmark",
               "cli",
@@ -96,10 +96,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-04T20:46:09Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28199,
+            "stars": 28200,
             "topics": [
               "benchmarking",
               "http",
@@ -132,7 +132,7 @@
             "open_issues": 124,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25217,
+            "stars": 25216,
             "topics": [
               "benchmarking",
               "go",
@@ -155,10 +155,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-01-10T20:54:51Z",
-            "open_issues": 190,
+            "open_issues": 191,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20644,
+            "stars": 20646,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -179,7 +179,7 @@
             "open_issues": 58,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10578,
+            "stars": 10579,
             "topics": [
               "benchmark",
               "cli",
@@ -210,7 +210,7 @@
             "open_issues": 244,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8799,
+            "stars": 8800,
             "topics": [
               "iperf3"
             ]
@@ -283,7 +283,7 @@
             "id": 1826128,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T08:58:38Z",
+            "last_commit": "2026-10-06T21:41:29Z",
             "open_issues": 18,
             "owner": "gatling",
             "repo": "gatling",
@@ -362,7 +362,7 @@
             "open_issues": 105,
             "owner": "giltene",
             "repo": "wrk2",
-            "stars": 4635,
+            "stars": 4633,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -443,7 +443,7 @@
             "open_issues": 91,
             "owner": "fortio",
             "repo": "fortio",
-            "stars": 3731,
+            "stars": 3732,
             "topics": [
               "go",
               "golang",
@@ -472,8 +472,8 @@
             "id": 5150693,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T09:32:23Z",
-            "open_issues": 94,
+            "last_commit": "2026-10-07T13:50:29Z",
+            "open_issues": 95,
             "owner": "yandex",
             "repo": "yandex-tank",
             "stars": 2599,
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T14:11:14.180Z",
+    "last_updated": "2026-10-07T14:29:34.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
