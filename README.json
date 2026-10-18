@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-16T12:03:55Z",
-            "open_issues": 769,
+            "last_commit": "2026-10-18T12:02:38Z",
+            "open_issues": 770,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31960,
+            "stars": 31970,
             "topics": [
               "es6",
               "go",
@@ -68,10 +68,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-12T08:33:48Z",
-            "open_issues": 60,
+            "open_issues": 61,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 29108,
+            "stars": 29117,
             "topics": [
               "benchmark",
               "cli",
@@ -95,8 +95,8 @@
             "id": 1377867,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-16T06:21:07Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-18T09:10:26Z",
+            "open_issues": 3,
             "owner": "locustio",
             "repo": "locust",
             "stars": 28218,
@@ -132,7 +132,7 @@
             "open_issues": 125,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25223,
+            "stars": 25224,
             "topics": [
               "benchmarking",
               "go",
@@ -158,7 +158,7 @@
             "open_issues": 192,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20702,
+            "stars": 20705,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -175,11 +175,11 @@
             "id": 244377430,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-12T06:50:58Z",
+            "last_commit": "2026-10-18T06:37:44Z",
             "open_issues": 58,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10611,
+            "stars": 10614,
             "topics": [
               "benchmark",
               "cli",
@@ -210,7 +210,7 @@
             "open_issues": 242,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8822,
+            "stars": 8823,
             "topics": [
               "iperf3"
             ]
@@ -328,7 +328,7 @@
             "open_issues": 30,
             "owner": "codesenberg",
             "repo": "bombardier",
-            "stars": 6842,
+            "stars": 6843,
             "topics": [
               "benchmarking",
               "bombardier",
@@ -362,7 +362,7 @@
             "open_issues": 105,
             "owner": "giltene",
             "repo": "wrk2",
-            "stars": 4636,
+            "stars": 4637,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -379,8 +379,8 @@
             "id": 376492865,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-04-28T15:48:39Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-17T13:07:36Z",
+            "open_issues": 20,
             "owner": "six-ddc",
             "repo": "plow",
             "stars": 4514,
@@ -440,7 +440,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-11T01:56:31Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "fortio",
             "repo": "fortio",
             "stars": 3738,
@@ -577,7 +577,7 @@
             "open_issues": 7,
             "owner": "rogerwelin",
             "repo": "cassowary",
-            "stars": 811,
+            "stars": 810,
             "topics": [
               "cli",
               "cross-platform",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T11:36:50.502Z",
+    "last_updated": "2026-10-18T12:03:09.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
