@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-23T12:33:22Z",
-            "open_issues": 767,
+            "last_commit": "2026-10-23T13:52:21Z",
+            "open_issues": 764,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 32018,
+            "stars": 32022,
             "topics": [
               "es6",
               "go",
@@ -68,7 +68,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-12T08:33:48Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "sharkdp",
             "repo": "hyperfine",
             "stars": 29144,
@@ -132,7 +132,7 @@
             "open_issues": 125,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25228,
+            "stars": 25227,
             "topics": [
               "benchmarking",
               "go",
@@ -179,7 +179,7 @@
             "open_issues": 59,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10626,
+            "stars": 10627,
             "topics": [
               "benchmark",
               "cli",
@@ -210,7 +210,7 @@
             "open_issues": 239,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8834,
+            "stars": 8837,
             "topics": [
               "iperf3"
             ]
@@ -230,7 +230,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-05-16T07:48:53Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "mcollina",
             "repo": "autocannon",
             "stars": 8533,
@@ -328,7 +328,7 @@
             "open_issues": 30,
             "owner": "codesenberg",
             "repo": "bombardier",
-            "stars": 6843,
+            "stars": 6844,
             "topics": [
               "benchmarking",
               "bombardier",
@@ -383,7 +383,7 @@
             "open_issues": 20,
             "owner": "six-ddc",
             "repo": "plow",
-            "stars": 4515,
+            "stars": 4514,
             "topics": [
               "apachebench",
               "cli",
@@ -443,7 +443,7 @@
             "open_issues": 82,
             "owner": "fortio",
             "repo": "fortio",
-            "stars": 3740,
+            "stars": 3739,
             "topics": [
               "go",
               "golang",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T12:37:01.071Z",
+    "last_updated": "2026-10-24T11:59:45.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
