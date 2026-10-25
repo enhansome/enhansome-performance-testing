@@ -19,7 +19,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40422,
+            "stars": 40424,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -37,10 +37,10 @@
             "language": "Go",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-23T13:52:21Z",
-            "open_issues": 764,
+            "open_issues": 766,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 32022,
+            "stars": 32034,
             "topics": [
               "es6",
               "go",
@@ -71,7 +71,7 @@
             "open_issues": 63,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 29144,
+            "stars": 29151,
             "topics": [
               "benchmark",
               "cli",
@@ -95,11 +95,11 @@
             "id": 1377867,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-21T20:20:56Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-24T18:37:08Z",
+            "open_issues": 8,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28235,
+            "stars": 28239,
             "topics": [
               "benchmarking",
               "http",
@@ -158,7 +158,7 @@
             "open_issues": 192,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20725,
+            "stars": 20729,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -179,7 +179,7 @@
             "open_issues": 59,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10627,
+            "stars": 10630,
             "topics": [
               "benchmark",
               "cli",
@@ -210,7 +210,7 @@
             "open_issues": 239,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8837,
+            "stars": 8838,
             "topics": [
               "iperf3"
             ]
@@ -287,7 +287,7 @@
             "open_issues": 18,
             "owner": "gatling",
             "repo": "gatling",
-            "stars": 6954,
+            "stars": 6955,
             "topics": [
               "automation",
               "cicd",
@@ -328,7 +328,7 @@
             "open_issues": 30,
             "owner": "codesenberg",
             "repo": "bombardier",
-            "stars": 6844,
+            "stars": 6845,
             "topics": [
               "benchmarking",
               "bombardier",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T11:59:45.283Z",
+    "last_updated": "2026-10-25T12:34:00.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
