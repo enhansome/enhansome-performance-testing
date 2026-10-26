@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-23T13:52:21Z",
-            "open_issues": 766,
+            "last_commit": "2026-10-26T10:40:11Z",
+            "open_issues": 765,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 32034,
+            "stars": 32052,
             "topics": [
               "es6",
               "go",
@@ -71,7 +71,7 @@
             "open_issues": 63,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 29151,
+            "stars": 29156,
             "topics": [
               "benchmark",
               "cli",
@@ -96,10 +96,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-24T18:37:08Z",
-            "open_issues": 8,
+            "open_issues": 10,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28239,
+            "stars": 28241,
             "topics": [
               "benchmarking",
               "http",
@@ -132,7 +132,7 @@
             "open_issues": 125,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25227,
+            "stars": 25230,
             "topics": [
               "benchmarking",
               "go",
@@ -158,7 +158,7 @@
             "open_issues": 192,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20729,
+            "stars": 20733,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -175,11 +175,11 @@
             "id": 244377430,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-22T07:57:59Z",
-            "open_issues": 59,
+            "last_commit": "2026-10-26T06:41:35Z",
+            "open_issues": 58,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10630,
+            "stars": 10634,
             "topics": [
               "benchmark",
               "cli",
@@ -207,10 +207,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-16T22:02:54Z",
-            "open_issues": 239,
+            "open_issues": 242,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8838,
+            "stars": 8840,
             "topics": [
               "iperf3"
             ]
@@ -284,7 +284,7 @@
             "language": "Scala",
             "license": "Apache-2.0",
             "last_commit": "2026-10-21T12:27:01Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "gatling",
             "repo": "gatling",
             "stars": 6955,
@@ -503,7 +503,7 @@
             "open_issues": 42,
             "owner": "fcsonline",
             "repo": "drill",
-            "stars": 2312,
+            "stars": 2313,
             "topics": [
               "http",
               "jmeter",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T12:34:00.321Z",
+    "last_updated": "2026-10-26T14:14:55.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
