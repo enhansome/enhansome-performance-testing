@@ -19,7 +19,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40424,
+            "stars": 40425,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-26T10:40:11Z",
+            "last_commit": "2026-10-27T10:47:58Z",
             "open_issues": 765,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 32052,
+            "stars": 32062,
             "topics": [
               "es6",
               "go",
@@ -68,10 +68,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-12T08:33:48Z",
-            "open_issues": 63,
+            "open_issues": 65,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 29156,
+            "stars": 29159,
             "topics": [
               "benchmark",
               "cli",
@@ -95,11 +95,11 @@
             "id": 1377867,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-24T18:37:08Z",
+            "last_commit": "2026-10-26T18:44:57Z",
             "open_issues": 10,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28241,
+            "stars": 28244,
             "topics": [
               "benchmarking",
               "http",
@@ -132,7 +132,7 @@
             "open_issues": 125,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25230,
+            "stars": 25231,
             "topics": [
               "benchmarking",
               "go",
@@ -158,7 +158,7 @@
             "open_issues": 192,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20733,
+            "stars": 20738,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -179,7 +179,7 @@
             "open_issues": 58,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10634,
+            "stars": 10642,
             "topics": [
               "benchmark",
               "cli",
@@ -206,11 +206,11 @@
             "id": 17183871,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T22:02:54Z",
-            "open_issues": 242,
+            "last_commit": "2026-10-26T18:34:51Z",
+            "open_issues": 241,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8840,
+            "stars": 8841,
             "topics": [
               "iperf3"
             ]
@@ -284,10 +284,10 @@
             "language": "Scala",
             "license": "Apache-2.0",
             "last_commit": "2026-10-21T12:27:01Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "gatling",
             "repo": "gatling",
-            "stars": 6955,
+            "stars": 6956,
             "topics": [
               "automation",
               "cicd",
@@ -362,7 +362,7 @@
             "open_issues": 106,
             "owner": "giltene",
             "repo": "wrk2",
-            "stars": 4638,
+            "stars": 4639,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -439,8 +439,8 @@
             "id": 106351459,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T23:51:59Z",
-            "open_issues": 82,
+            "last_commit": "2026-10-26T16:45:30Z",
+            "open_issues": 80,
             "owner": "fortio",
             "repo": "fortio",
             "stars": 3739,
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T14:14:55.077Z",
+    "last_updated": "2026-10-27T13:11:47.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
