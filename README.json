@@ -40,7 +40,7 @@
             "open_issues": 768,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 32077,
+            "stars": 32080,
             "topics": [
               "es6",
               "go",
@@ -68,10 +68,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-12T08:33:48Z",
-            "open_issues": 65,
+            "open_issues": 68,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 29178,
+            "stars": 29185,
             "topics": [
               "benchmark",
               "cli",
@@ -99,7 +99,7 @@
             "open_issues": 9,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28247,
+            "stars": 28254,
             "topics": [
               "benchmarking",
               "http",
@@ -132,7 +132,7 @@
             "open_issues": 125,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25231,
+            "stars": 25233,
             "topics": [
               "benchmarking",
               "go",
@@ -158,7 +158,7 @@
             "open_issues": 192,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20743,
+            "stars": 20745,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -179,7 +179,7 @@
             "open_issues": 58,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10646,
+            "stars": 10647,
             "topics": [
               "benchmark",
               "cli",
@@ -210,7 +210,7 @@
             "open_issues": 241,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8846,
+            "stars": 8849,
             "topics": [
               "iperf3"
             ]
@@ -287,7 +287,7 @@
             "open_issues": 20,
             "owner": "gatling",
             "repo": "gatling",
-            "stars": 6955,
+            "stars": 6954,
             "topics": [
               "automation",
               "cicd",
@@ -439,8 +439,8 @@
             "id": 106351459,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T16:45:30Z",
-            "open_issues": 80,
+            "last_commit": "2026-10-30T13:32:45Z",
+            "open_issues": 81,
             "owner": "fortio",
             "repo": "fortio",
             "stars": 3739,
@@ -577,7 +577,7 @@
             "open_issues": 7,
             "owner": "rogerwelin",
             "repo": "cassowary",
-            "stars": 810,
+            "stars": 811,
             "topics": [
               "cli",
               "cross-platform",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T14:17:43.969Z",
+    "last_updated": "2026-10-30T14:07:07.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
