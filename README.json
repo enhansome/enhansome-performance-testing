@@ -19,7 +19,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40425,
+            "stars": 40424,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -37,10 +37,10 @@
             "language": "Go",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-29T10:20:02Z",
-            "open_issues": 768,
+            "open_issues": 769,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 32080,
+            "stars": 32088,
             "topics": [
               "es6",
               "go",
@@ -71,7 +71,7 @@
             "open_issues": 68,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 29185,
+            "stars": 29189,
             "topics": [
               "benchmark",
               "cli",
@@ -95,8 +95,8 @@
             "id": 1377867,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-27T22:12:54Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-30T18:29:21Z",
+            "open_issues": 13,
             "owner": "locustio",
             "repo": "locust",
             "stars": 28254,
@@ -132,7 +132,7 @@
             "open_issues": 125,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25233,
+            "stars": 25234,
             "topics": [
               "benchmarking",
               "go",
@@ -158,7 +158,7 @@
             "open_issues": 192,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20745,
+            "stars": 20743,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -179,7 +179,7 @@
             "open_issues": 58,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10647,
+            "stars": 10649,
             "topics": [
               "benchmark",
               "cli",
@@ -254,7 +254,7 @@
             "open_issues": 19,
             "owner": "getanteon",
             "repo": "anteon",
-            "stars": 8516,
+            "stars": 8515,
             "topics": [
               "ddosify",
               "docker",
@@ -328,7 +328,7 @@
             "open_issues": 30,
             "owner": "codesenberg",
             "repo": "bombardier",
-            "stars": 6846,
+            "stars": 6847,
             "topics": [
               "benchmarking",
               "bombardier",
@@ -503,7 +503,7 @@
             "open_issues": 42,
             "owner": "fcsonline",
             "repo": "drill",
-            "stars": 2312,
+            "stars": 2313,
             "topics": [
               "http",
               "jmeter",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T14:07:07.651Z",
+    "last_updated": "2026-10-31T13:39:04.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
