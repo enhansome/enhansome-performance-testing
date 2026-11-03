@@ -19,7 +19,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40426,
+            "stars": 40425,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-02T13:44:46Z",
-            "open_issues": 767,
+            "last_commit": "2026-11-03T14:31:17Z",
+            "open_issues": 762,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 32106,
+            "stars": 32112,
             "topics": [
               "es6",
               "go",
@@ -68,10 +68,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-01T03:02:36Z",
-            "open_issues": 71,
+            "open_issues": 72,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 29199,
+            "stars": 29200,
             "topics": [
               "benchmark",
               "cli",
@@ -96,10 +96,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-02T13:04:21Z",
-            "open_issues": 10,
+            "open_issues": 12,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28259,
+            "stars": 28260,
             "topics": [
               "benchmarking",
               "http",
@@ -132,7 +132,7 @@
             "open_issues": 125,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25234,
+            "stars": 25237,
             "topics": [
               "benchmarking",
               "go",
@@ -158,7 +158,7 @@
             "open_issues": 192,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20750,
+            "stars": 20753,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -179,7 +179,7 @@
             "open_issues": 59,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10652,
+            "stars": 10654,
             "topics": [
               "benchmark",
               "cli",
@@ -233,7 +233,7 @@
             "open_issues": 59,
             "owner": "mcollina",
             "repo": "autocannon",
-            "stars": 8535,
+            "stars": 8536,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -283,11 +283,11 @@
             "id": 1826128,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T09:33:58Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-03T14:14:34Z",
+            "open_issues": 17,
             "owner": "gatling",
             "repo": "gatling",
-            "stars": 6956,
+            "stars": 6957,
             "topics": [
               "automation",
               "cicd",
@@ -383,7 +383,7 @@
             "open_issues": 20,
             "owner": "six-ddc",
             "repo": "plow",
-            "stars": 4516,
+            "stars": 4515,
             "topics": [
               "apachebench",
               "cli",
@@ -414,7 +414,7 @@
             "open_issues": 25,
             "owner": "nakabonne",
             "repo": "ali",
-            "stars": 3937,
+            "stars": 3938,
             "topics": [
               "benchmarking",
               "go",
@@ -443,7 +443,7 @@
             "open_issues": 81,
             "owner": "fortio",
             "repo": "fortio",
-            "stars": 3740,
+            "stars": 3739,
             "topics": [
               "go",
               "golang",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T17:03:37.035Z",
+    "last_updated": "2026-11-03T15:05:53.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
