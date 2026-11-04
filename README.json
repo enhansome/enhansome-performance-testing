@@ -19,7 +19,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40425,
+            "stars": 40426,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-03T14:31:17Z",
-            "open_issues": 762,
+            "last_commit": "2026-11-03T17:19:26Z",
+            "open_issues": 771,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 32112,
+            "stars": 32131,
             "topics": [
               "es6",
               "go",
@@ -68,10 +68,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-01T03:02:36Z",
-            "open_issues": 72,
+            "open_issues": 75,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 29200,
+            "stars": 29203,
             "topics": [
               "benchmark",
               "cli",
@@ -95,8 +95,8 @@
             "id": 1377867,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T13:04:21Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-03T21:03:10Z",
+            "open_issues": 11,
             "owner": "locustio",
             "repo": "locust",
             "stars": 28260,
@@ -132,7 +132,7 @@
             "open_issues": 125,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25237,
+            "stars": 25240,
             "topics": [
               "benchmarking",
               "go",
@@ -158,7 +158,7 @@
             "open_issues": 192,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20753,
+            "stars": 20760,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -179,7 +179,7 @@
             "open_issues": 59,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10654,
+            "stars": 10657,
             "topics": [
               "benchmark",
               "cli",
@@ -207,7 +207,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-27T15:47:38Z",
-            "open_issues": 243,
+            "open_issues": 244,
             "owner": "esnet",
             "repo": "iperf",
             "stars": 8858,
@@ -283,11 +283,11 @@
             "id": 1826128,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T14:14:34Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-04T08:56:44Z",
+            "open_issues": 16,
             "owner": "gatling",
             "repo": "gatling",
-            "stars": 6957,
+            "stars": 6958,
             "topics": [
               "automation",
               "cicd",
@@ -328,7 +328,7 @@
             "open_issues": 30,
             "owner": "codesenberg",
             "repo": "bombardier",
-            "stars": 6849,
+            "stars": 6850,
             "topics": [
               "benchmarking",
               "bombardier",
@@ -362,7 +362,7 @@
             "open_issues": 106,
             "owner": "giltene",
             "repo": "wrk2",
-            "stars": 4639,
+            "stars": 4638,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -443,7 +443,7 @@
             "open_issues": 81,
             "owner": "fortio",
             "repo": "fortio",
-            "stars": 3739,
+            "stars": 3741,
             "topics": [
               "go",
               "golang",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T15:05:53.842Z",
+    "last_updated": "2026-11-04T15:25:37.823Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
