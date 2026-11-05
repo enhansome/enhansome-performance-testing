@@ -19,7 +19,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40426,
+            "stars": 40427,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-03T17:19:26Z",
-            "open_issues": 771,
+            "last_commit": "2026-11-05T14:58:56Z",
+            "open_issues": 765,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 32131,
+            "stars": 32160,
             "topics": [
               "es6",
               "go",
@@ -68,10 +68,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-01T03:02:36Z",
-            "open_issues": 75,
+            "open_issues": 76,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 29203,
+            "stars": 29211,
             "topics": [
               "benchmark",
               "cli",
@@ -96,10 +96,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-03T21:03:10Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28260,
+            "stars": 28263,
             "topics": [
               "benchmarking",
               "http",
@@ -132,7 +132,7 @@
             "open_issues": 125,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25240,
+            "stars": 25243,
             "topics": [
               "benchmarking",
               "go",
@@ -158,7 +158,7 @@
             "open_issues": 192,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20760,
+            "stars": 20765,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -207,10 +207,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-27T15:47:38Z",
-            "open_issues": 244,
+            "open_issues": 245,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8858,
+            "stars": 8863,
             "topics": [
               "iperf3"
             ]
@@ -233,7 +233,7 @@
             "open_issues": 59,
             "owner": "mcollina",
             "repo": "autocannon",
-            "stars": 8536,
+            "stars": 8535,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -250,11 +250,11 @@
             "id": 392596825,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-03-04T10:47:26Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-05T14:14:46Z",
+            "open_issues": 20,
             "owner": "getanteon",
             "repo": "anteon",
-            "stars": 8514,
+            "stars": 8515,
             "topics": [
               "ddosify",
               "docker",
@@ -283,8 +283,8 @@
             "id": 1826128,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T08:56:44Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-05T13:56:03Z",
+            "open_issues": 15,
             "owner": "gatling",
             "repo": "gatling",
             "stars": 6958,
@@ -328,7 +328,7 @@
             "open_issues": 30,
             "owner": "codesenberg",
             "repo": "bombardier",
-            "stars": 6850,
+            "stars": 6852,
             "topics": [
               "benchmarking",
               "bombardier",
@@ -362,7 +362,7 @@
             "open_issues": 106,
             "owner": "giltene",
             "repo": "wrk2",
-            "stars": 4638,
+            "stars": 4639,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -414,7 +414,7 @@
             "open_issues": 25,
             "owner": "nakabonne",
             "repo": "ali",
-            "stars": 3938,
+            "stars": 3939,
             "topics": [
               "benchmarking",
               "go",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T15:25:37.823Z",
+    "last_updated": "2026-11-05T15:27:11.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
