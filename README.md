@@ -2,13 +2,13 @@
 
 A collection of awesome performance testing resources
 
-* [wrk](https://github.com/wg/wrk) ⭐ 40,425 | 🐛 203 | 🌐 C | 📅 2023-12-30 - wrk is a modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. It combines a multithreaded design with scalable event notification systems such as epoll and kqueue. An optional LuaJIT script can perform HTTP request generation, response processing, and custom reporting. Examples available.
+* [wrk](https://github.com/wg/wrk) ⭐ 40,424 | 🐛 203 | 🌐 C | 📅 2023-12-30 - wrk is a modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. It combines a multithreaded design with scalable event notification systems such as epoll and kqueue. An optional LuaJIT script can perform HTTP request generation, response processing, and custom reporting. Examples available.
 
-* [k6](https://github.com/grafana/k6) ⭐ 32,230 | 🐛 761 | 🌐 Go | 📅 2026-11-09 - is a modern and developer-centric load testing tool for API and website testing, tests are written in ES6 JS with support for HTTP/1.1, HTTP/2.0 and WebSocket protocols, written in Go.
+* [k6](https://github.com/grafana/k6) ⭐ 32,245 | 🐛 760 | 🌐 Go | 📅 2026-11-10 - is a modern and developer-centric load testing tool for API and website testing, tests are written in ES6 JS with support for HTTP/1.1, HTTP/2.0 and WebSocket protocols, written in Go.
 
-* [hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 29,232 | 🐛 77 | 🌐 Rust | 📅 2026-11-01 - A command-line benchmarking tool. It supports statistical analysis across multiple runs and support for arbitrary shell commands.
+* [hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 29,237 | 🐛 76 | 🌐 Rust | 📅 2026-11-01 - A command-line benchmarking tool. It supports statistical analysis across multiple runs and support for arbitrary shell commands.
 
-* [Locust](https://github.com/locustio/locust) ⭐ 28,270 | 🐛 12 | 🌐 Python | 📅 2026-11-06 - is an easily distributed loading test tool for load testing web sites and services, tests are written in Python. Featured in <https://cloud.google.com/solutions/distributed-load-testing-using-kubernetes>
+* [Locust](https://github.com/locustio/locust) ⭐ 28,271 | 🐛 12 | 🌐 Python | 📅 2026-11-09 - is an easily distributed loading test tool for load testing web sites and services, tests are written in Python. Featured in <https://cloud.google.com/solutions/distributed-load-testing-using-kubernetes>
 
 * [vegeta](https://github.com/tsenart/vegeta) ⭐ 25,245 | 🐛 125 | 🌐 Go | 📅 2026-09-24 - Vegeta is a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate.
 
@@ -16,15 +16,15 @@ A collection of awesome performance testing resources
 
 * [oha](https://github.com/hatoo/oha) ⭐ 10,666 | 🐛 59 | 🌐 Rust | 📅 2026-11-02 - oha is a tiny program that sends some load to a web application and show realtime tui inspired by rakyll/hey. This program is written in Rust and powered by tokio and beautiful tui by tui-rs.
 
-* [iperf](https://github.com/esnet/iperf) ⭐ 8,868 | 🐛 248 | 🌐 C | 📅 2026-10-27 - iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool. iperf is a tool for active measurements of the maximum achievable bandwidth on IP networks. It supports tuning of various parameters related to timing, protocols, and buffers. For each test it reports the measured throughput / bitrate, loss, and other parameters.
+* [iperf](https://github.com/esnet/iperf) ⭐ 8,873 | 🐛 247 | 🌐 C | 📅 2026-11-09 - iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool. iperf is a tool for active measurements of the maximum achievable bandwidth on IP networks. It supports tuning of various parameters related to timing, protocols, and buffers. For each test it reports the measured throughput / bitrate, loss, and other parameters.
 
-* [autocannon](https://github.com/mcollina/autocannon) ⭐ 8,535 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-06 - An HTTP/1.1 benchmarking tool written in node, greatly inspired by wrk and wrk2, with support for HTTP pipelining and HTTPS. On my box, autocannon can produce more load than wrk and wrk2, see limitations for more details.
+* [autocannon](https://github.com/mcollina/autocannon) ⭐ 8,536 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-06 - An HTTP/1.1 benchmarking tool written in node, greatly inspired by wrk and wrk2, with support for HTTP pipelining and HTTPS. On my box, autocannon can produce more load than wrk and wrk2, see limitations for more details.
 
 * [ddosify](https://github.com/ddosify/ddosify) ⭐ 8,513 | 🐛 26 | 🌐 Go | 📅 2026-11-09 - High-performance load testing scenario-based tool with current support of HTTP, HTTPS, HTTP/2, you can create your flow in a JSON file without a line of code.
 
-* [Gatling](https://github.com/gatling/gatling) ⭐ 6,959 | 🐛 15 | 🌐 Scala | 📅 2026-11-09 - is an Akka and Netty backed asynchronous loading test tool for HTTP/HTTPS with nice Scala DSL for writing tests
+* [Gatling](https://github.com/gatling/gatling) ⭐ 6,960 | 🐛 15 | 🌐 Scala | 📅 2026-11-10 - is an Akka and Netty backed asynchronous loading test tool for HTTP/HTTPS with nice Scala DSL for writing tests
 
-* [bombardier](https://github.com/codesenberg/bombardier) ⭐ 6,855 | 🐛 30 | 🌐 Go | 📅 2026-10-10 - bombardier is a HTTP(S) benchmarking tool. It is written in Go programming language and uses excellent fasthttp instead of Go's default http library, because of its lightning fast performance.
+* [bombardier](https://github.com/codesenberg/bombardier) ⭐ 6,854 | 🐛 30 | 🌐 Go | 📅 2026-10-10 - bombardier is a HTTP(S) benchmarking tool. It is written in Go programming language and uses excellent fasthttp instead of Go's default http library, because of its lightning fast performance.
 
 * [wrk2](https://github.com/giltene/wrk2) ⭐ 4,642 | 🐛 106 | 🌐 C | 📅 2024-03-03 - wrk2 is wrk modifed to produce a constant throughput load, and accurate latency details to the high 9s (i.e. can produce accurate 99.9999%'ile when run long enough). In addition to wrk's arguments, wrk2 takes a throughput argument (in total requests per second) via either the --rate or -R parameters (default is 1000).
 
@@ -32,17 +32,17 @@ A collection of awesome performance testing resources
 
 * [ali](https://github.com/nakabonne/ali) ⭐ 3,939 | 🐛 25 | 🌐 Go | 📅 2026-01-19 - ali is a load testing tool capable of performing real-time analysis, inspired by vegeta and jplot. Ali comes with an embedded terminal-based UI where you can plot the metrics in real-time, so lets you perform real-time analysis on the terminal.
 
-* [fortio](https://github.com/fortio/fortio) ⭐ 3,739 | 🐛 81 | 🌐 Go | 📅 2026-10-30 - Fortio (Φορτίο) started as, and is, Istio's load testing tool and now graduated to be its own project. Fortio runs at a specified query per second (qps) and records an histogram of execution time and calculates percentiles (e.g. p99 ie the response time such as 99% of the requests take less than that number (in seconds, SI unit)).
+* [fortio](https://github.com/fortio/fortio) ⭐ 3,738 | 🐛 81 | 🌐 Go | 📅 2026-10-30 - Fortio (Φορτίο) started as, and is, Istio's load testing tool and now graduated to be its own project. Fortio runs at a specified query per second (qps) and records an histogram of execution time and calculates percentiles (e.g. p99 ie the response time such as 99% of the requests take less than that number (in seconds, SI unit)).
 
 * [Yandex.Tank](https://github.com/yandex/yandex-tank) ⭐ 2,600 | 🐛 98 | 🌐 Python | 📅 2026-10-27 - is an extendable open source load testing tool for advanced linux users which is especially good as a part of automated load testing suit.
 
-* [drill](https://github.com/fcsonline/drill) ⭐ 2,313 | 🐛 42 | 🌐 Rust | 📅 2026-10-13 - Drill is a HTTP load testing application written in Rust. The main goal for this project is to build a really lightweight tool as alternative to other that require JVM and other stuff. You can write benchmark files, in YAML format, describing all the stuff you want to test.
+* [drill](https://github.com/fcsonline/drill) ⭐ 2,314 | 🐛 42 | 🌐 Rust | 📅 2026-10-13 - Drill is a HTTP load testing application written in Rust. The main goal for this project is to build a really lightweight tool as alternative to other that require JVM and other stuff. You can write benchmark files, in YAML format, describing all the stuff you want to test.
 
-* [slowhttptest](https://github.com/shekyan/slowhttptest) ⭐ 1,656 | 🐛 3 | 🌐 C++ | 📅 2026-09-25 - SlowHTTPTest is a highly configurable tool that simulates some Application Layer Denial of Service attacks by prolonging HTTP connections in different ways. Use it to test your web server for DoS vulnerabilites, or just to figure out how many concurrent connections it can handle
+* [slowhttptest](https://github.com/shekyan/slowhttptest) ⭐ 1,657 | 🐛 3 | 🌐 C++ | 📅 2026-09-25 - SlowHTTPTest is a highly configurable tool that simulates some Application Layer Denial of Service attacks by prolonging HTTP connections in different ways. Use it to test your web server for DoS vulnerabilites, or just to figure out how many concurrent connections it can handle
 
 * [httperf](https://github.com/httperf/httperf) ⭐ 1,016 | 🐛 55 | 🌐 C | 📅 2022-04-20 - httperf is a tool for measuring web server performance. It provides a flexible facility for generating various HTTP workloads and for measuring server performance. The focus of httperf is not on implementing one particular benchmark but on providing a robust, high-performance tool that facilitates the construction of both micro- and macro-level benchmarks. The three distinguishing characteristics of httperf are its robustness, which includes the ability to generate and sustain server overload, support for the HTTP/1.1 and SSL protocols, and its extensibility to new workload generators and performance measurements.
 
-* [cassowary](https://github.com/rogerwelin/cassowary) ⭐ 811 | 🐛 7 | 🌐 Go | 📅 2025-09-11 - Cassowary is a modern HTTP/S, intuitive & cross-platform load testing tool built in Go for developers, testers and sysadmins. Cassowary draws inspiration from awesome projects like k6, ab & httpstat.
+* [cassowary](https://github.com/rogerwelin/cassowary) ⭐ 812 | 🐛 7 | 🌐 Go | 📅 2025-09-11 - Cassowary is a modern HTTP/S, intuitive & cross-platform load testing tool built in Go for developers, testers and sysadmins. Cassowary draws inspiration from awesome projects like k6, ab & httpstat.
 
 * [fasthttploader](https://github.com/hagen1778/fasthttploader) ⭐ 121 | 🐛 5 | 🌐 Go | 📅 2019-02-21 - Fasthttploader was created to simplify http benchmarking. Options like QueryPerSecond(QPS) and number of connections are not required anymore. Fasthttploader detects server possibilities by analyzing repsonses and choosing optimal conditions for testing. To avoid adjustment stage (cause it takes some extra time) - just set -q and -c flags. Fasthttploader generates html-report after testing with some useful charts.
 
@@ -68,4 +68,4 @@ A collection of awesome performance testing resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._

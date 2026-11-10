@@ -19,7 +19,7 @@
             "open_issues": 203,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40425,
+            "stars": 40424,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-09T15:06:27Z",
-            "open_issues": 761,
+            "last_commit": "2026-11-10T15:09:08Z",
+            "open_issues": 760,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 32230,
+            "stars": 32245,
             "topics": [
               "es6",
               "go",
@@ -68,10 +68,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-01T03:02:36Z",
-            "open_issues": 77,
+            "open_issues": 76,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 29232,
+            "stars": 29237,
             "topics": [
               "benchmark",
               "cli",
@@ -95,11 +95,11 @@
             "id": 1377867,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-06T21:44:31Z",
+            "last_commit": "2026-11-09T20:31:07Z",
             "open_issues": 12,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28270,
+            "stars": 28271,
             "topics": [
               "benchmarking",
               "http",
@@ -206,11 +206,11 @@
             "id": 17183871,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T15:47:38Z",
-            "open_issues": 248,
+            "last_commit": "2026-11-09T19:49:42Z",
+            "open_issues": 247,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8868,
+            "stars": 8873,
             "topics": [
               "iperf3"
             ]
@@ -233,7 +233,7 @@
             "open_issues": 58,
             "owner": "mcollina",
             "repo": "autocannon",
-            "stars": 8535,
+            "stars": 8536,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -283,11 +283,11 @@
             "id": 1826128,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T10:57:13Z",
+            "last_commit": "2026-11-10T10:44:12Z",
             "open_issues": 15,
             "owner": "gatling",
             "repo": "gatling",
-            "stars": 6959,
+            "stars": 6960,
             "topics": [
               "automation",
               "cicd",
@@ -328,7 +328,7 @@
             "open_issues": 30,
             "owner": "codesenberg",
             "repo": "bombardier",
-            "stars": 6855,
+            "stars": 6854,
             "topics": [
               "benchmarking",
               "bombardier",
@@ -443,7 +443,7 @@
             "open_issues": 81,
             "owner": "fortio",
             "repo": "fortio",
-            "stars": 3739,
+            "stars": 3738,
             "topics": [
               "go",
               "golang",
@@ -503,7 +503,7 @@
             "open_issues": 42,
             "owner": "fcsonline",
             "repo": "drill",
-            "stars": 2313,
+            "stars": 2314,
             "topics": [
               "http",
               "jmeter",
@@ -531,7 +531,7 @@
             "open_issues": 3,
             "owner": "shekyan",
             "repo": "slowhttptest",
-            "stars": 1656,
+            "stars": 1657,
             "topics": [
               "performance-metrics",
               "security-scanner",
@@ -577,7 +577,7 @@
             "open_issues": 7,
             "owner": "rogerwelin",
             "repo": "cassowary",
-            "stars": 811,
+            "stars": 812,
             "topics": [
               "cli",
               "cross-platform",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T17:28:05.761Z",
+    "last_updated": "2026-11-10T15:35:11.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
