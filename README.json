@@ -19,7 +19,7 @@
             "open_issues": 202,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40426,
+            "stars": 40425,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-23T15:49:41Z",
-            "open_issues": 756,
+            "last_commit": "2026-11-24T18:47:05Z",
+            "open_issues": 758,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 32384,
+            "stars": 32399,
             "topics": [
               "es6",
               "go",
@@ -71,7 +71,7 @@
             "open_issues": 83,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 29340,
+            "stars": 29359,
             "topics": [
               "benchmark",
               "cli",
@@ -95,11 +95,11 @@
             "id": 1377867,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-16T15:44:30Z",
+            "last_commit": "2026-11-24T10:56:58Z",
             "open_issues": 23,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28306,
+            "stars": 28308,
             "topics": [
               "benchmarking",
               "http",
@@ -158,7 +158,7 @@
             "open_issues": 193,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20802,
+            "stars": 20803,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -179,7 +179,7 @@
             "open_issues": 59,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10721,
+            "stars": 10729,
             "topics": [
               "benchmark",
               "cli",
@@ -206,11 +206,11 @@
             "id": 17183871,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-21T00:00:47Z",
-            "open_issues": 268,
+            "last_commit": "2026-11-24T16:25:56Z",
+            "open_issues": 266,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8898,
+            "stars": 8902,
             "topics": [
               "iperf3"
             ]
@@ -230,10 +230,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-16T18:31:12Z",
-            "open_issues": 58,
+            "open_issues": 57,
             "owner": "mcollina",
             "repo": "autocannon",
-            "stars": 8545,
+            "stars": 8544,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -283,11 +283,11 @@
             "id": 1826128,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T18:16:07Z",
+            "last_commit": "2026-11-23T22:55:45Z",
             "open_issues": 15,
             "owner": "gatling",
             "repo": "gatling",
-            "stars": 6965,
+            "stars": 6966,
             "topics": [
               "automation",
               "cicd",
@@ -328,7 +328,7 @@
             "open_issues": 31,
             "owner": "codesenberg",
             "repo": "bombardier",
-            "stars": 6857,
+            "stars": 6856,
             "topics": [
               "benchmarking",
               "bombardier",
@@ -443,7 +443,7 @@
             "open_issues": 76,
             "owner": "fortio",
             "repo": "fortio",
-            "stars": 3739,
+            "stars": 3738,
             "topics": [
               "go",
               "golang",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T19:13:47.615Z",
+    "last_updated": "2026-11-24T18:52:50.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
@@ -636,7 +636,7 @@
       "open_issues": 4,
       "owner": "andriisoldatenko",
       "repo": "awesome-performance-testing",
-      "stars": 198,
+      "stars": 199,
       "topics": [
         "awesome-list",
         "measure",
