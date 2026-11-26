@@ -19,7 +19,7 @@
             "open_issues": 202,
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40427,
+            "stars": 40429,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -36,11 +36,11 @@
             "id": 54400687,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-25T03:02:46Z",
-            "open_issues": 760,
+            "last_commit": "2026-11-26T10:11:03Z",
+            "open_issues": 769,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 32405,
+            "stars": 32418,
             "topics": [
               "es6",
               "go",
@@ -71,7 +71,7 @@
             "open_issues": 83,
             "owner": "sharkdp",
             "repo": "hyperfine",
-            "stars": 29364,
+            "stars": 29373,
             "topics": [
               "benchmark",
               "cli",
@@ -96,10 +96,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-24T10:56:58Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "locustio",
             "repo": "locust",
-            "stars": 28312,
+            "stars": 28314,
             "topics": [
               "benchmarking",
               "http",
@@ -132,7 +132,7 @@
             "open_issues": 127,
             "owner": "tsenart",
             "repo": "vegeta",
-            "stars": 25256,
+            "stars": 25259,
             "topics": [
               "benchmarking",
               "go",
@@ -155,10 +155,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-01-10T20:54:51Z",
-            "open_issues": 193,
+            "open_issues": 194,
             "owner": "rakyll",
             "repo": "hey",
-            "stars": 20806,
+            "stars": 20813,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -176,10 +176,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-11-18T05:45:15Z",
-            "open_issues": 59,
+            "open_issues": 60,
             "owner": "hatoo",
             "repo": "oha",
-            "stars": 10735,
+            "stars": 10748,
             "topics": [
               "benchmark",
               "cli",
@@ -206,11 +206,11 @@
             "id": 17183871,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T16:25:56Z",
+            "last_commit": "2026-11-25T19:14:43Z",
             "open_issues": 267,
             "owner": "esnet",
             "repo": "iperf",
-            "stars": 8903,
+            "stars": 8905,
             "topics": [
               "iperf3"
             ]
@@ -233,7 +233,7 @@
             "open_issues": 57,
             "owner": "mcollina",
             "repo": "autocannon",
-            "stars": 8544,
+            "stars": 8545,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:03.734Z"
@@ -283,11 +283,11 @@
             "id": 1826128,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T22:55:45Z",
+            "last_commit": "2026-11-26T10:49:14Z",
             "open_issues": 15,
             "owner": "gatling",
             "repo": "gatling",
-            "stars": 6966,
+            "stars": 6968,
             "topics": [
               "automation",
               "cicd",
@@ -328,7 +328,7 @@
             "open_issues": 31,
             "owner": "codesenberg",
             "repo": "bombardier",
-            "stars": 6858,
+            "stars": 6859,
             "topics": [
               "benchmarking",
               "bombardier",
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T17:57:33.010Z",
+    "last_updated": "2026-11-26T17:42:42.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome performance testing resources",
